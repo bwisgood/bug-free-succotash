@@ -1,4 +1,4 @@
-package main
+package u1_hellowold
 
 import "fmt"
 

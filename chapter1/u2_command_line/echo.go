@@ -1,4 +1,4 @@
-package main
+package u2_command_line
 
 import (
 	"fmt"
